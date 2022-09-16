@@ -11,15 +11,15 @@ pip install Pillow
 
 Package             Version
 ------------------- ---------
-asgiref         3.5.2
-Django          4.1
-django-ckeditor 6.5.0
-django-js-asset 2.0.0
-Pillow          9.2.0
-pip             22.2.2
-setuptools      65.0.2
-sqlparse        0.4.2
-tzdata          2022.2
+asgiref         3.5.2 
+Django          4.1 
+django-ckeditor 6.5.0 
+django-js-asset 2.0.0 
+Pillow          9.2.0 
+pip             22.2.2  
+setuptools      65.0.2  
+sqlparse        0.4.2 
+tzdata          2022.2  
 
 #####################################
 
