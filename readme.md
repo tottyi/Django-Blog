@@ -38,3 +38,6 @@ Login: admin Password: 123 //Len preto take kratke heslo abi som nemusel vela pi
 Na users treba bit prihlaseni ako admin
 
 localhost:8000/users
+
+#####################################
+lekcia 26
